@@ -1,0 +1,2030 @@
+{
+    "Allande": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 21.48,
+            "zscore": 1.246
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 3.977,
+            "zscore": -0.743
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.92,
+            "zscore": -0.056
+        },
+        "DESEMPLEO": {
+            "valor": 4.768,
+            "zscore": -1.028
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Aller / Ayer": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.62,
+            "zscore": -0.872
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.873,
+            "zscore": 1.976
+        },
+        "INMIGRANTES": {
+            "valor": 4.729,
+            "zscore": -0.476
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.78,
+            "zscore": -0.199
+        },
+        "DESEMPLEO": {
+            "valor": 8.618,
+            "zscore": 0.799
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Amieva": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 19.2,
+            "zscore": 0.701
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.923,
+            "zscore": 2.06
+        },
+        "INMIGRANTES": {
+            "valor": 6.41,
+            "zscore": 0.121
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 7.375,
+            "zscore": 0.209
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Avilés": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.79,
+            "zscore": -0.832
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.449,
+            "zscore": -0.401
+        },
+        "INMIGRANTES": {
+            "valor": 8.108,
+            "zscore": 0.724
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 9.69,
+            "zscore": 0.417
+        },
+        "DESEMPLEO": {
+            "valor": 9.413,
+            "zscore": 1.177
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Belmonte de Miranda / Miranda": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.35,
+            "zscore": 0.02
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 2.29,
+            "zscore": 2.673
+        },
+        "INMIGRANTES": {
+            "valor": 3.817,
+            "zscore": -0.8
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 13.33,
+            "zscore": 0.873
+        },
+        "DESEMPLEO": {
+            "valor": 5.224,
+            "zscore": -0.812
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Bimenes": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.98,
+            "zscore": -0.786
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.758,
+            "zscore": 0.113
+        },
+        "INMIGRANTES": {
+            "valor": 4.959,
+            "zscore": -0.395
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 12.2,
+            "zscore": 0.731
+        },
+        "DESEMPLEO": {
+            "valor": 9.533,
+            "zscore": 1.234
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Boal": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 19.16,
+            "zscore": 0.691
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.158,
+            "zscore": 0.782
+        },
+        "INMIGRANTES": {
+            "valor": 1.489,
+            "zscore": -1.627
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 5.57,
+            "zscore": -0.647
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Cabrales": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.5,
+            "zscore": -0.423
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.832,
+            "zscore": 0.238
+        },
+        "INMIGRANTES": {
+            "valor": 11.534,
+            "zscore": 1.941
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 8.47,
+            "zscore": 0.264
+        },
+        "DESEMPLEO": {
+            "valor": 4.126,
+            "zscore": -1.333
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Cabranes": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 18.58,
+            "zscore": 0.553
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.851,
+            "zscore": 0.269
+        },
+        "INMIGRANTES": {
+            "valor": 11.422,
+            "zscore": 1.901
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.41,
+            "zscore": -0.12
+        },
+        "DESEMPLEO": {
+            "valor": 9.159,
+            "zscore": 1.056
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Candamo": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 18.11,
+            "zscore": 0.44
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.119,
+            "zscore": 0.717
+        },
+        "INMIGRANTES": {
+            "valor": 4.299,
+            "zscore": -0.629
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 3.62,
+            "zscore": -0.344
+        },
+        "DESEMPLEO": {
+            "valor": 6.8,
+            "zscore": -0.064
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Cangas de Onís / Cangues d'Onís": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.78,
+            "zscore": -0.595
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.772,
+            "zscore": 0.137
+        },
+        "INMIGRANTES": {
+            "valor": 13.664,
+            "zscore": 2.697
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 9.08,
+            "zscore": 0.34
+        },
+        "DESEMPLEO": {
+            "valor": 5.895,
+            "zscore": -0.493
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Cangas del Narcea": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.2,
+            "zscore": -0.016
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.42,
+            "zscore": -0.45
+        },
+        "INMIGRANTES": {
+            "valor": 4.936,
+            "zscore": -0.403
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 3.78,
+            "zscore": -0.324
+        },
+        "DESEMPLEO": {
+            "valor": 6.063,
+            "zscore": -0.413
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Caravia": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.31,
+            "zscore": -0.707
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 3.081,
+            "zscore": -1.061
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 4.667,
+            "zscore": -1.076
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Carreño": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 11.98,
+            "zscore": -1.025
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.16,
+            "zscore": 0.785
+        },
+        "INMIGRANTES": {
+            "valor": 5.953,
+            "zscore": -0.042
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.78,
+            "zscore": -0.199
+        },
+        "DESEMPLEO": {
+            "valor": 6.804,
+            "zscore": -0.062
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Caso / Casu": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 20.74,
+            "zscore": 1.069
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 5.882,
+            "zscore": -0.067
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 18.35,
+            "zscore": 1.502
+        },
+        "DESEMPLEO": {
+            "valor": 6.658,
+            "zscore": -0.131
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Castrillón": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 10.61,
+            "zscore": -1.353
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.568,
+            "zscore": -0.204
+        },
+        "INMIGRANTES": {
+            "valor": 5.148,
+            "zscore": -0.327
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.73,
+            "zscore": -0.205
+        },
+        "DESEMPLEO": {
+            "valor": 7.376,
+            "zscore": 0.21
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Castropol": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 15.33,
+            "zscore": -0.224
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.032,
+            "zscore": -1.098
+        },
+        "INMIGRANTES": {
+            "valor": 3.302,
+            "zscore": -0.983
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 3.89,
+            "zscore": -0.31
+        },
+        "DESEMPLEO": {
+            "valor": 5.62,
+            "zscore": -0.624
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Coaña": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.62,
+            "zscore": -0.394
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.063,
+            "zscore": -1.046
+        },
+        "INMIGRANTES": {
+            "valor": 4.124,
+            "zscore": -0.691
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 4.887,
+            "zscore": -0.972
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Colunga": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 15.72,
+            "zscore": -0.131
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.17,
+            "zscore": 0.802
+        },
+        "INMIGRANTES": {
+            "valor": 7.48,
+            "zscore": 0.501
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 2.07,
+            "zscore": -0.538
+        },
+        "DESEMPLEO": {
+            "valor": 5.173,
+            "zscore": -0.836
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Corvera": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.09,
+            "zscore": -0.521
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.606,
+            "zscore": -0.14
+        },
+        "INMIGRANTES": {
+            "valor": 5.372,
+            "zscore": -0.248
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.53,
+            "zscore": -0.105
+        },
+        "DESEMPLEO": {
+            "valor": 10.005,
+            "zscore": 1.458
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Cudillero / Cuideiru": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.46,
+            "zscore": 0.046
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.465,
+            "zscore": -0.375
+        },
+        "INMIGRANTES": {
+            "valor": 5.299,
+            "zscore": -0.274
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.52,
+            "zscore": -0.106
+        },
+        "DESEMPLEO": {
+            "valor": 7.336,
+            "zscore": 0.191
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Degaña": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 10.17,
+            "zscore": -1.458
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 4.127,
+            "zscore": -0.69
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 4.305,
+            "zscore": -1.248
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Franco, El": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.38,
+            "zscore": -0.451
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.32,
+            "zscore": -0.618
+        },
+        "INMIGRANTES": {
+            "valor": 3.314,
+            "zscore": -0.979
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 1.73,
+            "zscore": -0.581
+        },
+        "DESEMPLEO": {
+            "valor": 5.442,
+            "zscore": -0.708
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Gijón / Xixón": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.35,
+            "zscore": -0.937
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.645,
+            "zscore": -0.075
+        },
+        "INMIGRANTES": {
+            "valor": 11.806,
+            "zscore": 2.037
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 7.0,
+            "zscore": 0.08
+        },
+        "DESEMPLEO": {
+            "valor": 9.387,
+            "zscore": 1.164
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Gozón": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.59,
+            "zscore": -0.64
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.932,
+            "zscore": 0.404
+        },
+        "INMIGRANTES": {
+            "valor": 4.294,
+            "zscore": -0.631
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 7.25,
+            "zscore": 0.111
+        },
+        "DESEMPLEO": {
+            "valor": 6.598,
+            "zscore": -0.159
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Grado / Grau": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.12,
+            "zscore": -0.035
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.545,
+            "zscore": -0.242
+        },
+        "INMIGRANTES": {
+            "valor": 8.227,
+            "zscore": 0.766
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.23,
+            "zscore": -0.142
+        },
+        "DESEMPLEO": {
+            "valor": 8.485,
+            "zscore": 0.736
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Grandas de Salime": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 20.97,
+            "zscore": 1.124
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.664,
+            "zscore": -0.042
+        },
+        "INMIGRANTES": {
+            "valor": 4.319,
+            "zscore": -0.622
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 5.044,
+            "zscore": -0.897
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Ibias": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 18.29,
+            "zscore": 0.483
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.299,
+            "zscore": 1.017
+        },
+        "INMIGRANTES": {
+            "valor": 5.772,
+            "zscore": -0.106
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 18.87,
+            "zscore": 1.567
+        },
+        "DESEMPLEO": {
+            "valor": 5.008,
+            "zscore": -0.914
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Illano / Eilao": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 21.94,
+            "zscore": 1.356
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 5.102,
+            "zscore": -0.344
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 5.333,
+            "zscore": -0.76
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Illas": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.29,
+            "zscore": -0.951
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 2.141,
+            "zscore": -1.395
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.46,
+            "zscore": -0.113
+        },
+        "DESEMPLEO": {
+            "valor": 5.538,
+            "zscore": -0.663
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Langreo / Llangréu": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.77,
+            "zscore": -0.358
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.914,
+            "zscore": 0.375
+        },
+        "INMIGRANTES": {
+            "valor": 5.566,
+            "zscore": -0.179
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 9.92,
+            "zscore": 0.446
+        },
+        "DESEMPLEO": {
+            "valor": 12.307,
+            "zscore": 2.551
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Laviana / Llaviana": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 11.22,
+            "zscore": -1.207
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.395,
+            "zscore": -0.493
+        },
+        "INMIGRANTES": {
+            "valor": 4.3,
+            "zscore": -0.629
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.99,
+            "zscore": -0.047
+        },
+        "DESEMPLEO": {
+            "valor": 7.973,
+            "zscore": 0.493
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Lena / Llena": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.75,
+            "zscore": -0.841
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.753,
+            "zscore": 0.107
+        },
+        "INMIGRANTES": {
+            "valor": 6.158,
+            "zscore": 0.031
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 8.1,
+            "zscore": 0.217
+        },
+        "DESEMPLEO": {
+            "valor": 9.447,
+            "zscore": 1.193
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Valdés": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 17.33,
+            "zscore": 0.254
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.342,
+            "zscore": -0.58
+        },
+        "INMIGRANTES": {
+            "valor": 4.573,
+            "zscore": -0.532
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 1.68,
+            "zscore": -0.587
+        },
+        "DESEMPLEO": {
+            "valor": 6.685,
+            "zscore": -0.118
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Llanera": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.11,
+            "zscore": -0.755
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.23,
+            "zscore": 0.902
+        },
+        "INMIGRANTES": {
+            "valor": 6.948,
+            "zscore": 0.312
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.94,
+            "zscore": -0.053
+        },
+        "DESEMPLEO": {
+            "valor": 6.539,
+            "zscore": -0.187
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Llanes": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 15.02,
+            "zscore": -0.298
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.721,
+            "zscore": 0.052
+        },
+        "INMIGRANTES": {
+            "valor": 12.854,
+            "zscore": 2.409
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.81,
+            "zscore": -0.069
+        },
+        "DESEMPLEO": {
+            "valor": 6.214,
+            "zscore": -0.342
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Mieres": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.93,
+            "zscore": -0.559
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 5.537,
+            "zscore": -0.189
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 8.45,
+            "zscore": 0.261
+        },
+        "DESEMPLEO": {
+            "valor": 11.484,
+            "zscore": 2.16
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Morcín": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 10.55,
+            "zscore": -1.367
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.063,
+            "zscore": -1.046
+        },
+        "INMIGRANTES": {
+            "valor": 6.347,
+            "zscore": 0.098
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.68,
+            "zscore": -0.086
+        },
+        "DESEMPLEO": {
+            "valor": 6.293,
+            "zscore": -0.304
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Muros del Nalón": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.73,
+            "zscore": -0.607
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.516,
+            "zscore": 1.381
+        },
+        "INMIGRANTES": {
+            "valor": 5.633,
+            "zscore": -0.155
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 13.33,
+            "zscore": 0.873
+        },
+        "DESEMPLEO": {
+            "valor": 8.651,
+            "zscore": 0.815
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Nava": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.69,
+            "zscore": -0.616
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.241,
+            "zscore": -0.749
+        },
+        "INMIGRANTES": {
+            "valor": 6.026,
+            "zscore": -0.015
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 6.28,
+            "zscore": -0.011
+        },
+        "DESEMPLEO": {
+            "valor": 6.43,
+            "zscore": -0.239
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Navia": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.8,
+            "zscore": -0.829
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.528,
+            "zscore": -0.27
+        },
+        "INMIGRANTES": {
+            "valor": 5.41,
+            "zscore": -0.235
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.31,
+            "zscore": -0.257
+        },
+        "DESEMPLEO": {
+            "valor": 5.055,
+            "zscore": -0.892
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Noreña": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 11.46,
+            "zscore": -1.15
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 6.863,
+            "zscore": 0.282
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.02,
+            "zscore": -0.294
+        },
+        "DESEMPLEO": {
+            "valor": 6.544,
+            "zscore": -0.185
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Onís": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.56,
+            "zscore": 0.07
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.536,
+            "zscore": -0.257
+        },
+        "INMIGRANTES": {
+            "valor": 11.483,
+            "zscore": 1.923
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 14.08,
+            "zscore": 0.967
+        },
+        "DESEMPLEO": {
+            "valor": 6.928,
+            "zscore": -0.003
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Oviedo / Uviéu": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 11.74,
+            "zscore": -1.083
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.915,
+            "zscore": 0.376
+        },
+        "INMIGRANTES": {
+            "valor": 13.676,
+            "zscore": 2.701
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 7.55,
+            "zscore": 0.149
+        },
+        "DESEMPLEO": {
+            "valor": 7.799,
+            "zscore": 0.411
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Parres": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.35,
+            "zscore": 0.02
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 11.294,
+            "zscore": 1.856
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.5,
+            "zscore": -0.234
+        },
+        "DESEMPLEO": {
+            "valor": 6.738,
+            "zscore": -0.093
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Peñamellera Alta": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 19.35,
+            "zscore": 0.737
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 4.557,
+            "zscore": -0.537
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 6.397,
+            "zscore": -0.255
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Peñamellera Baja": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 15.48,
+            "zscore": -0.188
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 6.503,
+            "zscore": 0.154
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 6.171,
+            "zscore": -0.362
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Pesoz / Pezós": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 34.5,
+            "zscore": 4.359
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.764,
+            "zscore": 0.124
+        },
+        "INMIGRANTES": {
+            "valor": 4.545,
+            "zscore": -0.541
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 3.614,
+            "zscore": -1.576
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Piloña": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.92,
+            "zscore": 0.156
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.739,
+            "zscore": 0.082
+        },
+        "INMIGRANTES": {
+            "valor": 6.874,
+            "zscore": 0.285
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 7.83,
+            "zscore": 0.184
+        },
+        "DESEMPLEO": {
+            "valor": 7.919,
+            "zscore": 0.468
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Ponga": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 27.47,
+            "zscore": 2.678
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.055,
+            "zscore": 0.61
+        },
+        "INMIGRANTES": {
+            "valor": 5.419,
+            "zscore": -0.231
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 7.233,
+            "zscore": 0.142
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Pravia": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.93,
+            "zscore": 0.158
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.199,
+            "zscore": -0.82
+        },
+        "INMIGRANTES": {
+            "valor": 6.623,
+            "zscore": 0.196
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.46,
+            "zscore": -0.239
+        },
+        "DESEMPLEO": {
+            "valor": 9.578,
+            "zscore": 1.255
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Proaza": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.21,
+            "zscore": -0.014
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 2.329,
+            "zscore": 2.738
+        },
+        "INMIGRANTES": {
+            "valor": 3.579,
+            "zscore": -0.885
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 5.995,
+            "zscore": -0.446
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Quirós": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 20.25,
+            "zscore": 0.952
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.922,
+            "zscore": 0.388
+        },
+        "INMIGRANTES": {
+            "valor": 7.424,
+            "zscore": 0.481
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 9.8,
+            "zscore": 0.43
+        },
+        "DESEMPLEO": {
+            "valor": 7.194,
+            "zscore": 0.123
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Regueras, Las / Regueres, Les": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.71,
+            "zscore": 0.106
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.716,
+            "zscore": 1.714
+        },
+        "INMIGRANTES": {
+            "valor": 3.759,
+            "zscore": -0.821
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 4.968,
+            "zscore": -0.933
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Ribadedeva / Ribadeva": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.72,
+            "zscore": -0.37
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.397,
+            "zscore": -0.489
+        },
+        "INMIGRANTES": {
+            "valor": 8.424,
+            "zscore": 0.836
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 2.7,
+            "zscore": -0.459
+        },
+        "DESEMPLEO": {
+            "valor": 5.318,
+            "zscore": -0.767
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Ribadesella / Ribesella": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 11.87,
+            "zscore": -1.052
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.062,
+            "zscore": -1.049
+        },
+        "INMIGRANTES": {
+            "valor": 10.482,
+            "zscore": 1.567
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 1.87,
+            "zscore": -0.563
+        },
+        "DESEMPLEO": {
+            "valor": 5.672,
+            "zscore": -0.599
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Ribera de Arriba / Ribera d'Arriba, La": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 20.85,
+            "zscore": 1.095
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.088,
+            "zscore": 0.665
+        },
+        "INMIGRANTES": {
+            "valor": 9.982,
+            "zscore": 1.389
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 2.27,
+            "zscore": -0.513
+        },
+        "DESEMPLEO": {
+            "valor": 12.846,
+            "zscore": 2.806
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Riosa": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 11.4,
+            "zscore": -1.164
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.752,
+            "zscore": 0.104
+        },
+        "INMIGRANTES": {
+            "valor": 4.607,
+            "zscore": -0.52
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 6.925,
+            "zscore": -0.004
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Salas": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 18.72,
+            "zscore": 0.586
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 5.286,
+            "zscore": -0.278
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.03,
+            "zscore": -0.293
+        },
+        "DESEMPLEO": {
+            "valor": 7.262,
+            "zscore": 0.156
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "San Martín de Oscos / Samartín de Oscos": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 20.5,
+            "zscore": 1.012
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.422,
+            "zscore": -0.447
+        },
+        "INMIGRANTES": {
+            "valor": 1.73,
+            "zscore": -1.541
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 33.33,
+            "zscore": 3.379
+        },
+        "DESEMPLEO": {
+            "valor": 6.915,
+            "zscore": -0.009
+        },
+        "Cluster": {
+            "valor": 3.0,
+            "zscore": 3.0
+        }
+    },
+    "San Martín del Rey Aurelio / S. del Rei Aurelio": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.65,
+            "zscore": -0.387
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 5.471,
+            "zscore": -0.213
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 10.53,
+            "zscore": 0.522
+        },
+        "DESEMPLEO": {
+            "valor": 12.65,
+            "zscore": 2.713
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "San Tirso de Abres / Santiso de Abres": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 19.35,
+            "zscore": 0.737
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.099,
+            "zscore": 0.683
+        },
+        "INMIGRANTES": {
+            "valor": 3.279,
+            "zscore": -0.991
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 30.77,
+            "zscore": 3.058
+        },
+        "DESEMPLEO": {
+            "valor": 5.833,
+            "zscore": -0.523
+        },
+        "Cluster": {
+            "valor": 3.0,
+            "zscore": 3.0
+        }
+    },
+    "Santa Eulalia de Oscos / Santalla de Oscos": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 18.87,
+            "zscore": 0.622
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 5.769,
+            "zscore": -0.107
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 8.949,
+            "zscore": 0.957
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Santo Adriano": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 20.71,
+            "zscore": 1.062
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.459,
+            "zscore": -0.386
+        },
+        "INMIGRANTES": {
+            "valor": 10.096,
+            "zscore": 1.43
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 45.45,
+            "zscore": 4.898
+        },
+        "DESEMPLEO": {
+            "valor": 5.325,
+            "zscore": -0.764
+        },
+        "Cluster": {
+            "valor": 3.0,
+            "zscore": 3.0
+        }
+    },
+    "Sariego / Sariegu": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.73,
+            "zscore": -0.846
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.151,
+            "zscore": 0.77
+        },
+        "INMIGRANTES": {
+            "valor": 2.202,
+            "zscore": -1.374
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 3.86,
+            "zscore": -0.314
+        },
+        "DESEMPLEO": {
+            "valor": 7.298,
+            "zscore": 0.173
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Siero / Sieru": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.03,
+            "zscore": -0.774
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 2.052,
+            "zscore": 2.276
+        },
+        "INMIGRANTES": {
+            "valor": 7.03,
+            "zscore": 0.341
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.65,
+            "zscore": -0.215
+        },
+        "DESEMPLEO": {
+            "valor": 7.708,
+            "zscore": 0.367
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Sobrescobio / Sobrescobiu": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 12.29,
+            "zscore": -0.951
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 7.463,
+            "zscore": 0.495
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 5.524,
+            "zscore": -0.669
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Somiedo": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 18.24,
+            "zscore": 0.471
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.845,
+            "zscore": 0.259
+        },
+        "INMIGRANTES": {
+            "valor": 5.696,
+            "zscore": -0.133
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 29.85,
+            "zscore": 2.943
+        },
+        "DESEMPLEO": {
+            "valor": 2.388,
+            "zscore": -2.158
+        },
+        "Cluster": {
+            "valor": 3.0,
+            "zscore": 3.0
+        }
+    },
+    "Soto del Barco / Sotu'l Barcu": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 13.28,
+            "zscore": -0.714
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.211,
+            "zscore": 0.87
+        },
+        "INMIGRANTES": {
+            "valor": 4.194,
+            "zscore": -0.666
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 1.61,
+            "zscore": -0.596
+        },
+        "DESEMPLEO": {
+            "valor": 8.441,
+            "zscore": 0.715
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Tapia de Casariego / Tapia": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 14.76,
+            "zscore": -0.361
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.679,
+            "zscore": 1.652
+        },
+        "INMIGRANTES": {
+            "valor": 4.045,
+            "zscore": -0.719
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 4.66,
+            "zscore": -0.214
+        },
+        "DESEMPLEO": {
+            "valor": 6.738,
+            "zscore": -0.093
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Taramundi": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 16.99,
+            "zscore": 0.173
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.685,
+            "zscore": 1.662
+        },
+        "INMIGRANTES": {
+            "valor": 3.545,
+            "zscore": -0.897
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 2.349,
+            "zscore": -2.176
+        },
+        "Cluster": {
+            "valor": 4.0,
+            "zscore": 4.0
+        }
+    },
+    "Teverga / Teberga": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 15.12,
+            "zscore": -0.275
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.438,
+            "zscore": -0.419
+        },
+        "INMIGRANTES": {
+            "valor": 7.433,
+            "zscore": 0.484
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 6.13,
+            "zscore": -0.029
+        },
+        "DESEMPLEO": {
+            "valor": 5.587,
+            "zscore": -0.639
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Tineo / Tinéu": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 18.66,
+            "zscore": 0.572
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.689,
+            "zscore": -0.001
+        },
+        "INMIGRANTES": {
+            "valor": 5.487,
+            "zscore": -0.207
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 2.86,
+            "zscore": -0.439
+        },
+        "DESEMPLEO": {
+            "valor": 6.351,
+            "zscore": -0.277
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Vegadeo / Veiga, A": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 17.34,
+            "zscore": 0.256
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.976,
+            "zscore": 0.479
+        },
+        "INMIGRANTES": {
+            "valor": 8.556,
+            "zscore": 0.883
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 3.35,
+            "zscore": -0.378
+        },
+        "DESEMPLEO": {
+            "valor": 7.383,
+            "zscore": 0.213
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Villanueva de Oscos / Vilanova de Oscos": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 26.76,
+            "zscore": 2.508
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 1.277,
+            "zscore": 0.98
+        },
+        "INMIGRANTES": {
+            "valor": 3.404,
+            "zscore": -0.947
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 10.738,
+            "zscore": 1.806
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    },
+    "Villaviciosa": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 15.21,
+            "zscore": -0.253
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.72,
+            "zscore": 0.051
+        },
+        "INMIGRANTES": {
+            "valor": 9.163,
+            "zscore": 1.099
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 5.84,
+            "zscore": -0.066
+        },
+        "DESEMPLEO": {
+            "valor": 6.707,
+            "zscore": -0.108
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Villayón": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 25.07,
+            "zscore": 2.104
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 1.983,
+            "zscore": -1.451
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 8.26,
+            "zscore": 0.238
+        },
+        "DESEMPLEO": {
+            "valor": 4.856,
+            "zscore": -0.986
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Yernes y Tameza": {
+        "NIVEL SOCECO MUY VULNERABLE": {
+            "valor": 20.26,
+            "zscore": 0.954
+        },
+        "INSTITUCIONALIZADOS": {
+            "valor": 0.0,
+            "zscore": -1.152
+        },
+        "INMIGRANTES": {
+            "valor": 2.083,
+            "zscore": -1.416
+        },
+        "EMBARAZO EN ADOLESCENTES": {
+            "valor": 0.0,
+            "zscore": -0.798
+        },
+        "DESEMPLEO": {
+            "valor": 10.714,
+            "zscore": 1.794
+        },
+        "Cluster": {
+            "valor": 5.0,
+            "zscore": 5.0
+        }
+    }
+}

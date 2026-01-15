@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Mapa y Gráfico</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div data-role="controles">
+
+  <div data-role="archivo">
+    <label for="sel-archivo">Archivo:</label>
+    <select id="sel-archivo" name="archivo" data-field="archivo"></select>
+  </div>
+
+  <div data-role="modo">
+    <label for="sel-modo">Modo:</label>
+    <select id="sel-modo" name="modo" data-field="modo">
+      <option value="mapa">Mapa</option>
+      <option value="grafico">Gráfico</option>
+    </select>
+  </div>
+
+  <div data-role="tipo-grafico">
+    <label for="sel-tipo-grafico">Tipo de gráfico:</label>
+    <select id="sel-tipo-grafico" name="tipo-grafico" data-field="tipo-grafico">
+      <option value="bar">Barras</option>
+      <option value="radar">Radar</option>
+      <option value="polarArea">Área polar</option>
+      <option value="scatter">Dispersión</option>
+    </select>
+  </div>
+
+  <div data-role="indicadores">
+    <label for="sel-indicador">Indicador:</label>
+    <select id="sel-indicador" name="indicador" data-field="indicador"></select>
+  </div>
+
+  <div data-role="indicadores-xy">
+    <label for="sel-indicador-x">Indicador X:</label>
+    <select id="sel-indicador-x" name="indicador-x" data-field="indicador-x"></select>
+
+    <label for="sel-indicador-y">Indicador Y:</label>
+    <select id="sel-indicador-y" name="indicador-y" data-field="indicador-y"></select>
+  </div>
+
+  <div data-role="concejo">
+    <label for="sel-concejo">Concejo:</label>
+    <select id="sel-concejo" name="concejo" data-field="concejo"></select>
+  </div>
+
+</div>
+
+  <div data-role="mapa">
+    <div data-role="mapa-svg"></div>
+
+    <div data-role="leyenda" hidden>
+      <div data-leyenda="contenido"></div>
+    </div>
+  </div>
+
+
+  <div data-role="grafico">
+    <canvas data-canvas="grafico"></canvas>
+  </div>
+
+
+  <aside data-role="info">
+    <h3><span class="sr-only">Nombre del concejo</span></h3>
+    <p><strong>Indicador:</strong> <span data-info="indicador"></span></p>
+    <p><strong>Valor:</strong> <span data-info="valor"></span></p>
+    <button data-action="cerrar">Cerrar</button>
+  </aside>
+
+  <script src="js/functions.js"></script>
+  <script src="js/events.js"></script>
+  <script src="js/dataLoader.js"></script>
+
+</body>
+</html> 

@@ -1,0 +1,1406 @@
+{
+    "Allande": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 8.315,
+            "zscore": 1.157
+        },
+        "URGENCIAS": {
+            "valor": 26.32,
+            "zscore": 0.731
+        },
+        "GRUPO4_GMA": {
+            "valor": 10.34,
+            "zscore": 2.427
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Aller / Ayer": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.399,
+            "zscore": 0.489
+        },
+        "URGENCIAS": {
+            "valor": 24.379,
+            "zscore": 0.272
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.991,
+            "zscore": -0.056
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Amieva": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.41,
+            "zscore": -0.232
+        },
+        "URGENCIAS": {
+            "valor": 25.214,
+            "zscore": 0.47
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.06,
+            "zscore": -1.159
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Avilés": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.707,
+            "zscore": 0.713
+        },
+        "URGENCIAS": {
+            "valor": 27.32,
+            "zscore": 0.968
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.455,
+            "zscore": 0.209
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Belmonte de Miranda / Miranda": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.718,
+            "zscore": 0.722
+        },
+        "URGENCIAS": {
+            "valor": 21.713,
+            "zscore": -0.359
+        },
+        "GRUPO4_GMA": {
+            "valor": 8.736,
+            "zscore": 1.511
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Bimenes": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.576,
+            "zscore": 0.618
+        },
+        "URGENCIAS": {
+            "valor": 25.551,
+            "zscore": 0.549
+        },
+        "GRUPO4_GMA": {
+            "valor": 8.953,
+            "zscore": 1.635
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Boal": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.534,
+            "zscore": -0.141
+        },
+        "URGENCIAS": {
+            "valor": 25.806,
+            "zscore": 0.61
+        },
+        "GRUPO4_GMA": {
+            "valor": 8.519,
+            "zscore": 1.388
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Cabrales": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.005,
+            "zscore": -0.527
+        },
+        "URGENCIAS": {
+            "valor": 22.592,
+            "zscore": -0.151
+        },
+        "GRUPO4_GMA": {
+            "valor": 3.805,
+            "zscore": -1.304
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Cabranes": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.197,
+            "zscore": -0.387
+        },
+        "URGENCIAS": {
+            "valor": 18.712,
+            "zscore": -1.069
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.683,
+            "zscore": 0.339
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Candamo": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.419,
+            "zscore": -0.225
+        },
+        "URGENCIAS": {
+            "valor": 20.966,
+            "zscore": -0.535
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.83,
+            "zscore": -0.148
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Cangas de Onís / Cangues d'Onís": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.239,
+            "zscore": -1.085
+        },
+        "URGENCIAS": {
+            "valor": 29.726,
+            "zscore": 1.537
+        },
+        "GRUPO4_GMA": {
+            "valor": 3.4,
+            "zscore": -1.536
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Cangas del Narcea": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.421,
+            "zscore": 0.505
+        },
+        "URGENCIAS": {
+            "valor": 31.813,
+            "zscore": 2.031
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.304,
+            "zscore": 0.122
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Caravia": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.602,
+            "zscore": -0.82
+        },
+        "URGENCIAS": {
+            "valor": 23.81,
+            "zscore": 0.137
+        },
+        "GRUPO4_GMA": {
+            "valor": 3.081,
+            "zscore": -1.718
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Carreño": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.456,
+            "zscore": -0.198
+        },
+        "URGENCIAS": {
+            "valor": 21.954,
+            "zscore": -0.302
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.824,
+            "zscore": -0.722
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Caso / Casu": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 8.824,
+            "zscore": 1.527
+        },
+        "URGENCIAS": {
+            "valor": 23.529,
+            "zscore": 0.071
+        },
+        "GRUPO4_GMA": {
+            "valor": 8.69,
+            "zscore": 1.485
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Castrillón": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.207,
+            "zscore": 0.349
+        },
+        "URGENCIAS": {
+            "valor": 24.99,
+            "zscore": 0.417
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.629,
+            "zscore": -0.263
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Castropol": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.252,
+            "zscore": -0.347
+        },
+        "URGENCIAS": {
+            "valor": 25.457,
+            "zscore": 0.527
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.585,
+            "zscore": -0.859
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Coaña": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.44,
+            "zscore": -0.21
+        },
+        "URGENCIAS": {
+            "valor": 30.838,
+            "zscore": 1.8
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.505,
+            "zscore": -0.905
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Colunga": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.381,
+            "zscore": -0.253
+        },
+        "URGENCIAS": {
+            "valor": 21.517,
+            "zscore": -0.405
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.36,
+            "zscore": -0.987
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Corvera": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 8.157,
+            "zscore": 1.041
+        },
+        "URGENCIAS": {
+            "valor": 28.578,
+            "zscore": 1.266
+        },
+        "GRUPO4_GMA": {
+            "valor": 7.36,
+            "zscore": 0.726
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Cudillero / Cuideiru": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.228,
+            "zscore": 0.364
+        },
+        "URGENCIAS": {
+            "valor": 21.752,
+            "zscore": -0.349
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.158,
+            "zscore": 0.04
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Degaña": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.032,
+            "zscore": -0.507
+        },
+        "URGENCIAS": {
+            "valor": 21.429,
+            "zscore": -0.426
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.556,
+            "zscore": -0.305
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Franco, El": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.843,
+            "zscore": -0.645
+        },
+        "URGENCIAS": {
+            "valor": 29.738,
+            "zscore": 1.54
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.512,
+            "zscore": 0.241
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Gijón / Xixón": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.843,
+            "zscore": -0.645
+        },
+        "URGENCIAS": {
+            "valor": 24.244,
+            "zscore": 0.24
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.741,
+            "zscore": -0.199
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Gozón": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 8.031,
+            "zscore": 0.949
+        },
+        "URGENCIAS": {
+            "valor": 23.257,
+            "zscore": 0.007
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.118,
+            "zscore": -0.554
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Grado / Grau": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.525,
+            "zscore": -0.877
+        },
+        "URGENCIAS": {
+            "valor": 21.608,
+            "zscore": -0.383
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.124,
+            "zscore": 0.02
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Grandas de Salime": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.478,
+            "zscore": -0.182
+        },
+        "URGENCIAS": {
+            "valor": 15.781,
+            "zscore": -1.762
+        },
+        "GRUPO4_GMA": {
+            "valor": 7.475,
+            "zscore": 0.791
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Ibias": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 10.245,
+            "zscore": 2.563
+        },
+        "URGENCIAS": {
+            "valor": 26.551,
+            "zscore": 0.786
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.782,
+            "zscore": 0.396
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Illano / Eilao": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.122,
+            "zscore": -0.441
+        },
+        "URGENCIAS": {
+            "valor": 26.02,
+            "zscore": 0.66
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.612,
+            "zscore": -0.272
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Illas": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.431,
+            "zscore": 0.512
+        },
+        "URGENCIAS": {
+            "valor": 25.189,
+            "zscore": 0.464
+        },
+        "GRUPO4_GMA": {
+            "valor": 3.778,
+            "zscore": -1.319
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Langreo / Llangréu": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.596,
+            "zscore": 0.633
+        },
+        "URGENCIAS": {
+            "valor": 27.652,
+            "zscore": 1.046
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.678,
+            "zscore": -0.235
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Laviana / Llaviana": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.432,
+            "zscore": 0.513
+        },
+        "URGENCIAS": {
+            "valor": 25.939,
+            "zscore": 0.641
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.352,
+            "zscore": -0.421
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Lena / Llena": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.384,
+            "zscore": 0.478
+        },
+        "URGENCIAS": {
+            "valor": 26.462,
+            "zscore": 0.765
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.651,
+            "zscore": 0.321
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Valdés": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.167,
+            "zscore": -1.138
+        },
+        "URGENCIAS": {
+            "valor": 24.833,
+            "zscore": 0.379
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.142,
+            "zscore": -0.541
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Llanera": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.297,
+            "zscore": -1.042
+        },
+        "URGENCIAS": {
+            "valor": 23.43,
+            "zscore": 0.048
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.551,
+            "zscore": -0.879
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Llanes": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.213,
+            "zscore": 0.353
+        },
+        "URGENCIAS": {
+            "valor": 19.373,
+            "zscore": -0.912
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.156,
+            "zscore": -1.104
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Mieres": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.391,
+            "zscore": -0.245
+        },
+        "URGENCIAS": {
+            "valor": 28.462,
+            "zscore": 1.238
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.332,
+            "zscore": 0.139
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Morcín": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.785,
+            "zscore": 0.77
+        },
+        "URGENCIAS": {
+            "valor": 22.015,
+            "zscore": -0.287
+        },
+        "GRUPO4_GMA": {
+            "valor": 8.833,
+            "zscore": 1.566
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Muros del Nalón": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.89,
+            "zscore": -0.61
+        },
+        "URGENCIAS": {
+            "valor": 24.367,
+            "zscore": 0.269
+        },
+        "GRUPO4_GMA": {
+            "valor": 7.215,
+            "zscore": 0.643
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Nava": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.752,
+            "zscore": -0.711
+        },
+        "URGENCIAS": {
+            "valor": 19.596,
+            "zscore": -0.86
+        },
+        "GRUPO4_GMA": {
+            "valor": 8.379,
+            "zscore": 1.307
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Navia": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.766,
+            "zscore": -0.701
+        },
+        "URGENCIAS": {
+            "valor": 27.987,
+            "zscore": 1.126
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.79,
+            "zscore": -0.171
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Noreña": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.582,
+            "zscore": -0.835
+        },
+        "URGENCIAS": {
+            "valor": 22.071,
+            "zscore": -0.274
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.315,
+            "zscore": 0.129
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Onís": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.194,
+            "zscore": -1.118
+        },
+        "URGENCIAS": {
+            "valor": 34.131,
+            "zscore": 2.579
+        },
+        "GRUPO4_GMA": {
+            "valor": 3.509,
+            "zscore": -1.473
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Oviedo / Uviéu": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.429,
+            "zscore": -0.947
+        },
+        "URGENCIAS": {
+            "valor": 22.68,
+            "zscore": -0.13
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.249,
+            "zscore": -0.48
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Parres": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.063,
+            "zscore": -1.213
+        },
+        "URGENCIAS": {
+            "valor": 29.787,
+            "zscore": 1.552
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.071,
+            "zscore": -0.582
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Peñamellera Alta": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 3.016,
+            "zscore": -2.705
+        },
+        "URGENCIAS": {
+            "valor": 16.456,
+            "zscore": -1.603
+        },
+        "GRUPO4_GMA": {
+            "valor": 2.532,
+            "zscore": -2.031
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Peñamellera Baja": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 11.364,
+            "zscore": 3.378
+        },
+        "URGENCIAS": {
+            "valor": 8.2,
+            "zscore": -3.556
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.221,
+            "zscore": 0.075
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Pesoz / Pezós": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.915,
+            "zscore": -0.593
+        },
+        "URGENCIAS": {
+            "valor": 22.727,
+            "zscore": -0.119
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.818,
+            "zscore": 0.416
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Piloña": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.882,
+            "zscore": 0.841
+        },
+        "URGENCIAS": {
+            "valor": 24.894,
+            "zscore": 0.394
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.769,
+            "zscore": -0.183
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Ponga": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.865,
+            "zscore": 0.828
+        },
+        "URGENCIAS": {
+            "valor": 27.094,
+            "zscore": 0.914
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.187,
+            "zscore": -1.086
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Pravia": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.169,
+            "zscore": -1.136
+        },
+        "URGENCIAS": {
+            "valor": 22.98,
+            "zscore": -0.059
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.889,
+            "zscore": -0.115
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Proaza": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.696,
+            "zscore": -0.023
+        },
+        "URGENCIAS": {
+            "valor": 18.29,
+            "zscore": -1.169
+        },
+        "GRUPO4_GMA": {
+            "valor": 10.537,
+            "zscore": 2.54
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Quirós": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 8.085,
+            "zscore": 0.989
+        },
+        "URGENCIAS": {
+            "valor": 20.087,
+            "zscore": -0.743
+        },
+        "GRUPO4_GMA": {
+            "valor": 7.715,
+            "zscore": 0.928
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Regueras, Las / Regueres, Les": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 4.914,
+            "zscore": -1.322
+        },
+        "URGENCIAS": {
+            "valor": 27.376,
+            "zscore": 0.981
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.028,
+            "zscore": -0.035
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Ribadedeva / Ribadeva": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 4.824,
+            "zscore": -1.387
+        },
+        "URGENCIAS": {
+            "valor": 15.523,
+            "zscore": -1.823
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.226,
+            "zscore": -0.493
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Ribadesella / Ribesella": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.422,
+            "zscore": -0.952
+        },
+        "URGENCIAS": {
+            "valor": 20.369,
+            "zscore": -0.677
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.889,
+            "zscore": 0.457
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Ribera de Arriba / Ribera d'Arriba, La": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.59,
+            "zscore": -0.101
+        },
+        "URGENCIAS": {
+            "valor": 25.077,
+            "zscore": 0.437
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.005,
+            "zscore": -1.19
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Riosa": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.562,
+            "zscore": -0.121
+        },
+        "URGENCIAS": {
+            "valor": 22.521,
+            "zscore": -0.168
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.462,
+            "zscore": 0.213
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Salas": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.612,
+            "zscore": 0.645
+        },
+        "URGENCIAS": {
+            "valor": 19.868,
+            "zscore": -0.795
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.969,
+            "zscore": -0.068
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "San Martín de Oscos / Samartín de Oscos": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.435,
+            "zscore": 0.515
+        },
+        "URGENCIAS": {
+            "valor": 16.955,
+            "zscore": -1.484
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.19,
+            "zscore": -0.513
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "San Martín del Rey Aurelio / S. del Rei Aurelio": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.65,
+            "zscore": 0.672
+        },
+        "URGENCIAS": {
+            "valor": 24.488,
+            "zscore": 0.298
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.15,
+            "zscore": 0.035
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "San Tirso de Abres / Santiso de Abres": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.143,
+            "zscore": 0.302
+        },
+        "URGENCIAS": {
+            "valor": 20.492,
+            "zscore": -0.648
+        },
+        "GRUPO4_GMA": {
+            "valor": 3.279,
+            "zscore": -1.605
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Santa Eulalia de Oscos / Santalla de Oscos": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 9.615,
+            "zscore": 2.104
+        },
+        "URGENCIAS": {
+            "valor": 16.758,
+            "zscore": -1.531
+        },
+        "GRUPO4_GMA": {
+            "valor": 9.066,
+            "zscore": 1.7
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Santo Adriano": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.789,
+            "zscore": 0.044
+        },
+        "URGENCIAS": {
+            "valor": 23.558,
+            "zscore": 0.078
+        },
+        "GRUPO4_GMA": {
+            "valor": 9.135,
+            "zscore": 1.739
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Sariego / Sariegu": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.637,
+            "zscore": -0.795
+        },
+        "URGENCIAS": {
+            "valor": 22.11,
+            "zscore": -0.265
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.771,
+            "zscore": -0.753
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Siero / Sieru": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 8.396,
+            "zscore": 1.215
+        },
+        "URGENCIAS": {
+            "valor": 22.725,
+            "zscore": -0.119
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.527,
+            "zscore": -0.321
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Sobrescobio / Sobrescobiu": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 4.589,
+            "zscore": -1.559
+        },
+        "URGENCIAS": {
+            "valor": 24.813,
+            "zscore": 0.375
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.291,
+            "zscore": -1.027
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Somiedo": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 8.298,
+            "zscore": 1.144
+        },
+        "URGENCIAS": {
+            "valor": 14.873,
+            "zscore": -1.977
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.272,
+            "zscore": -1.038
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Soto del Barco / Sotu'l Barcu": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.549,
+            "zscore": -0.13
+        },
+        "URGENCIAS": {
+            "valor": 22.511,
+            "zscore": -0.17
+        },
+        "GRUPO4_GMA": {
+            "valor": 7.393,
+            "zscore": 0.744
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Tapia de Casariego / Tapia": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.276,
+            "zscore": 0.399
+        },
+        "URGENCIAS": {
+            "valor": 23.968,
+            "zscore": 0.175
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.522,
+            "zscore": 0.247
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Taramundi": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.244,
+            "zscore": -0.353
+        },
+        "URGENCIAS": {
+            "valor": 22.761,
+            "zscore": -0.111
+        },
+        "GRUPO4_GMA": {
+            "valor": 7.649,
+            "zscore": 0.891
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Teverga / Teberga": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.403,
+            "zscore": 0.492
+        },
+        "URGENCIAS": {
+            "valor": 17.245,
+            "zscore": -1.416
+        },
+        "GRUPO4_GMA": {
+            "valor": 7.73,
+            "zscore": 0.937
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Tineo / Tinéu": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.201,
+            "zscore": -0.384
+        },
+        "URGENCIAS": {
+            "valor": 24.853,
+            "zscore": 0.384
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.111,
+            "zscore": -0.559
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Vegadeo / Veiga, A": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 6.423,
+            "zscore": -0.222
+        },
+        "URGENCIAS": {
+            "valor": 24.923,
+            "zscore": 0.401
+        },
+        "GRUPO4_GMA": {
+            "valor": 5.627,
+            "zscore": -0.264
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Villanueva de Oscos / Vilanova de Oscos": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 9.787,
+            "zscore": 2.229
+        },
+        "URGENCIAS": {
+            "valor": 20.426,
+            "zscore": -0.663
+        },
+        "GRUPO4_GMA": {
+            "valor": 4.681,
+            "zscore": -0.804
+        },
+        "Cluster": {
+            "valor": 1.0,
+            "zscore": 1.0
+        }
+    },
+    "Villaviciosa": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 5.768,
+            "zscore": -0.7
+        },
+        "URGENCIAS": {
+            "valor": 20.388,
+            "zscore": -0.672
+        },
+        "GRUPO4_GMA": {
+            "valor": 6.154,
+            "zscore": 0.037
+        },
+        "Cluster": {
+            "valor": 0.0,
+            "zscore": 0.0
+        }
+    },
+    "Villayón": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 7.516,
+            "zscore": 0.574
+        },
+        "URGENCIAS": {
+            "valor": 24.739,
+            "zscore": 0.357
+        },
+        "GRUPO4_GMA": {
+            "valor": 8.559,
+            "zscore": 1.41
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    },
+    "Yernes y Tameza": {
+        "INGRESOS HOSPITALARIOS": {
+            "valor": 4.167,
+            "zscore": -1.867
+        },
+        "URGENCIAS": {
+            "valor": 16.667,
+            "zscore": -1.553
+        },
+        "GRUPO4_GMA": {
+            "valor": 10.417,
+            "zscore": 2.471
+        },
+        "Cluster": {
+            "valor": 2.0,
+            "zscore": 2.0
+        }
+    }
+}

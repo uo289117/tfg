@@ -733,6 +733,7 @@ function renderLegendRangos({ legend, indicadorActual, min, max }) {
   const step = (maxNum - minNum) / 10;
 
   const list = document.createElement("div");
+  list.setAttribute("data-leyenda", "lista");   
   list.style.display = "grid";
   list.style.gap = "4px";
 
@@ -790,6 +791,7 @@ function renderLegendClusters({ legend, indicadorActual, clusterValues, coloresC
     .sort((a, b) => a - b);
 
   const list = document.createElement("div");
+  list.setAttribute("data-leyenda", "lista");   
   list.style.display = "grid";
   list.style.gap = "4px";
   legend.appendChild(list);

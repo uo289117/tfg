@@ -234,96 +234,76 @@ aside[data-role="info"].tooltip.show{
 }
 
 /* =========================================
-   TABLET/MÓVIL: -> 2 columnas para que no sea tan alta
+   DESKTOP
    ========================================= */
-/* DESKTOP: reserva espacio para no tapar el mapa */
 @media (min-width: 901px){
   [data-role="mapa"]{
     --legend-w: clamp(110px, 14vw, 150px);
     padding-right: calc(var(--legend-w) + 28px);
   }
+
+  [data-role="leyenda"]{
+    top: 16px;
+    right: 16px;
+    max-height: calc(100% - 32px);
+  }
 }
 
-/* TABLET/MÓVIL: el mapa usa todo el ancho, leyenda en overlay */
+/* =========================================
+   TABLET / MÓVIL: leyenda en overlay + 2 columnas
+   ========================================= */
 @media (max-width: 900px){
   [data-role="mapa"]{
-    padding-right: 0; /* <-- clave: recuperas ancho del mapa */
-    --legend-w: clamp(140px, 42vw, 220px); /* más ancha porque no roba al mapa */
-    --legend-font: clamp(8px, 1.8vw, 10px);
-    --legend-swatch: clamp(9px, 2vw, 12px);
+    padding-right: 0;
+    --legend-w: clamp(160px, 70vw, 360px); /* ✅ más ancha para 2 columnas */
+    --legend-font: clamp(8px, 2.2vw, 11px);
+    --legend-swatch: clamp(10px, 2.4vw, 14px);
   }
 
   [data-role="leyenda"]{
     top: 12px;
     right: 12px;
-    max-height: 42vh;  /* evita que baje demasiado */
-    background: rgba(255,255,255,0.92); /* se ve el mapa detrás */
-    backdrop-filter: blur(2px);
+    width: var(--legend-w);
+    max-height: 42vh;
+    overflow: auto;
+    background: rgba(255,255,255,0.95);
+    backdrop-filter: blur(3px);
   }
 
-  /* 2 columnas para bajar altura */
-  [data-role="leyenda"] [data-leyenda="contenido"]{
+  /* ✅ 2 columnas reales sobre la LISTA, no sobre el contenedor */
+  [data-role="leyenda"] [data-leyenda="lista"]{
+    display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 10px;
+    column-gap: 12px;
+    row-gap: 6px;
   }
+
+  /* ✅ El título ocupa las 2 columnas (es el primer div del contenedor) */
   [data-role="leyenda"] [data-leyenda="contenido"] > div:first-child{
-    grid-column: 1 / -1;
-  }
-
-  aside[data-role="info"]{
-    bottom: 10px;
-    right: 10px;
-
-    width: clamp(160px, 48vw, 240px);
-    padding: 10px 12px;
-    font-size: clamp(0.72rem, 2.4vw, 0.88rem);
-
-    background: rgba(255,255,255,0.92);
-    backdrop-filter: blur(2px);
+    margin-bottom: 6px !important;
   }
 }
-
 
 /* =========================================
    MÓVIL PEQUEÑO: aún más compacto
    ========================================= */
 @media (max-width: 480px){
   [data-role="mapa"]{
-    --legend-w: clamp(150px, 60vw, 240px);
-    --legend-font: 8px;
-    --legend-swatch: 9px;
+    --legend-w: clamp(200px, 92vw, 420px); /* ✅ casi ancho completo */
+    --legend-font: 9px;
+    --legend-swatch: 10px;
   }
 
   [data-role="leyenda"]{
     top: 10px;
     right: 10px;
-    padding: 5px 6px;
-    max-height: 38vh;
+    padding: 6px 8px;
+    max-height: 40vh;
   }
 
-  aside[data-role="info"]{
-    left: 10px;
-    right: 10px;     /* ocupa ancho, pero muy poco alto */
-    bottom: 10px;
-
-    width: auto;
-    padding: 10px 12px;
-
-    border-radius: 14px;
-    text-align: left; /* más legible en móvil */
-  }
-
-  aside[data-role="info"] h3{
-    margin: 0 0 6px 0;
-    font-size: 1em;
-  }
-
-  aside[data-role="info"] p{
-    margin: 4px 0;
-  }
-
-  aside[data-role="info"] button{
-    width: 100%;
+  [data-role="leyenda"] [data-leyenda="lista"]{
+    column-gap: 10px;
+    row-gap: 4px;
   }
 }
 

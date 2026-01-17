@@ -14,25 +14,69 @@ let tipoGrafico = "bar";
 let concejoActual = null;
 let chart = null;
 
-function mostrarInfo(municipio, valor) {
-    const aside = document.querySelector('[data-role="info"]');
-    aside.querySelector('h3').textContent = municipio;
-    aside.querySelector('[data-info="indicador"]').textContent = indicadorActual || "";
-    aside.querySelector('[data-info="valor"]').textContent = valor !== undefined ? valor : "n/d";
-    
-    aside.classList.add("show");
+
+// Botón cerrar del cuadro de información
+ const btn = document.querySelector('[data-action="cerrar"]');
+  if (btn) {
+    btn.onclick = (e) => {
+      console.log("Pasa algo");
+      e.preventDefault();
+      e.stopPropagation();
+      cerrarInfo();
+    };
+  }
+
+function getMapaEl() {
+  return document.querySelector('[data-role="mapa"]');
+}
+
+function getInfoEl() {
+  return document.querySelector('aside[data-role="info"]');
+}
+
+function mostrarInfo(municipio, valor, clientX, clientY) {
+  const mapa = getMapaEl();
+  const info = getInfoEl();
+  if (!info || !mapa) return;
+
+  const h3 = info.querySelector('h3');
+  if (h3) h3.textContent = municipio;
+
+  const ind = info.querySelector('[data-info="indicador"]');
+  if (ind) ind.textContent = indicadorActual || "";
+
+  const val = info.querySelector('[data-info="valor"]');
+  if (val) val.textContent = valor !== undefined ? valor : "n/d";
+
+  // Mostrar primero para poder medir tamaño real
+  info.classList.add("show");
+
+  const r = mapa.getBoundingClientRect();
+  const x = clientX - r.left;
+  const y = clientY - r.top;
+
+  const PADDING = 12;
+
+  const boxW = info.offsetWidth || 260;
+  const boxH = info.offsetHeight || 140;
+
+  const left = Math.min(x + PADDING, r.width - boxW - PADDING);
+  const top  = Math.min(y + PADDING, r.height - boxH - PADDING);
+
+  info.style.left = `${Math.max(PADDING, left)}px`;
+  info.style.top  = `${Math.max(PADDING, top)}px`;
 }
 
 function cerrarInfo() {
-    const aside = document.querySelector('[data-role="info"]');
-    aside.classList.remove("show"); 
+  const info = getInfoEl();
+  if (!info) return;
+  info.classList.remove("show");
 }
 
-// Botón cerrar del cuadro de información
-const botonCerrar = document.querySelector('[data-action="cerrar"]');
-if (botonCerrar) {
-    botonCerrar.addEventListener("click", cerrarInfo);
-}
+
+document.addEventListener("keydown", (ev) => {
+  if (ev.key === "Escape") cerrarInfo();
+});
 
 /**
  * Devuelve un color según en que porcentaje esté el valor entre mínimo y maximo
@@ -181,9 +225,10 @@ function pintarMapa() {
         }
 
         //muestra el infobox con la información del municipio seleccionado
-        a.onclick = () => {
-            cerrarInfo();
-            mostrarInfo(municipio, valorOriginal);
+        a.onclick = (ev) => {
+          ev.preventDefault();
+          cerrarInfo();
+          mostrarInfo(municipio, valorOriginal, ev.clientX, ev.clientY);
         };
     });
 

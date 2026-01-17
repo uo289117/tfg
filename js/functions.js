@@ -549,28 +549,31 @@ function commonConfig({ tipoGrafico, labels, data, meta }) {
 }
 
 function actualizarSelectorIndicadores() {
-    // vacía el selector para actualizarlo
-    selectorIndicador.innerHTML = "";
+  const prev = indicadorActual || selectorIndicador.value; // lo que había antes
 
-    indicadores.forEach(ind => {
-        const esCluster = ind.toLowerCase().includes("cluster");
+  // reconstruye opciones
+  selectorIndicador.innerHTML = "";
 
-        // En modo gráfico NO mostrar cluster
-        if (modoActual !== "mapa" && esCluster) return;
+  const disponibles = indicadores.filter(ind => {
+    const esCluster = ind.toLowerCase().includes("cluster");
+    // en modo gráfico no se permiten clusters
+    if (modoActual !== "mapa" && esCluster) return false;
+    return true;
+  });
 
-        const option = document.createElement("option");
-        option.value = ind;
-        option.textContent = ind;
-        selectorIndicador.appendChild(option);
-    });
+  disponibles.forEach(ind => {
+    const option = document.createElement("option");
+    option.value = ind;
+    option.textContent = ind;
+    selectorIndicador.appendChild(option);
+  });
 
-    // Si el indicadorActual ya no existe en las opciones, se ajusta al primero
-    if (
-        indicadorActual &&
-        !Array.from(selectorIndicador.options).some(o => o.value === indicadorActual)
-    ) {
-        indicadorActual = selectorIndicador.options[0]?.value || null;
-    }
+  // ✅ re-selecciona lo anterior si sigue existiendo, si no el primero
+  const existe = Array.from(selectorIndicador.options).some(o => o.value === prev);
+  const nuevo = existe ? prev : (selectorIndicador.options[0]?.value || null);
+
+  indicadorActual = nuevo;
+  selectorIndicador.value = nuevo;
 }
 
 function actualizarVista() {
@@ -822,3 +825,4 @@ function renderLegendClusters({ legend, indicadorActual, clusterValues, coloresC
     list.appendChild(row);
   });
 }
+

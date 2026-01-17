@@ -155,8 +155,8 @@ aside[data-role="info"].tooltip{
   box-shadow: 0 10px 26px rgba(0,0,0,0.35);
   backdrop-filter: blur(4px);
 
-  pointer-events: auto; /* necesario para click/selección */
-  user-select: text;    /* ✅ copiar */
+  pointer-events: auto; /* click/selección */
+  user-select: text;    /*  copiar */
 
   display: none;
 }
@@ -233,9 +233,6 @@ aside[data-role="info"].tooltip.show{
   height: var(--legend-swatch) !important;
 }
 
-/* =========================================
-   DESKTOP
-   ========================================= */
 @media (min-width: 901px){
   [data-role="mapa"]{
     --legend-w: clamp(110px, 14vw, 150px);
@@ -250,27 +247,30 @@ aside[data-role="info"].tooltip.show{
 }
 
 /* =========================================
-   TABLET / MÓVIL: leyenda en overlay + 2 columnas
+   TABLET / MÓVIL: overlay + 2 columnas (sin desbordar)
    ========================================= */
 @media (max-width: 900px){
   [data-role="mapa"]{
     padding-right: 0;
-    --legend-w: clamp(160px, 70vw, 360px); /* ✅ más ancha para 2 columnas */
     --legend-font: clamp(8px, 2.2vw, 11px);
     --legend-swatch: clamp(10px, 2.4vw, 14px);
   }
 
   [data-role="leyenda"]{
     top: 12px;
-    right: 12px;
-    width: var(--legend-w);
+    left: 12px;
+    right: 12px; 
+    width: auto;
+    max-width: none;
+    box-sizing: border-box;
+
     max-height: 42vh;
     overflow: auto;
     background: rgba(255,255,255,0.95);
     backdrop-filter: blur(3px);
   }
 
-  /* ✅ 2 columnas reales sobre la LISTA, no sobre el contenedor */
+  /* 2 columnas reales sobre la LISTA */
   [data-role="leyenda"] [data-leyenda="lista"]{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -278,7 +278,7 @@ aside[data-role="info"].tooltip.show{
     row-gap: 6px;
   }
 
-  /* ✅ El título ocupa las 2 columnas (es el primer div del contenedor) */
+  /* título arriba ocupando todo */
   [data-role="leyenda"] [data-leyenda="contenido"] > div:first-child{
     margin-bottom: 6px !important;
   }
@@ -289,14 +289,18 @@ aside[data-role="info"].tooltip.show{
    ========================================= */
 @media (max-width: 480px){
   [data-role="mapa"]{
-    --legend-w: clamp(200px, 92vw, 420px); /* ✅ casi ancho completo */
     --legend-font: 9px;
     --legend-swatch: 10px;
   }
 
   [data-role="leyenda"]{
     top: 10px;
-    right: 10px;
+    left: 10px;            
+    right: 10px;           
+    width: auto;           
+    max-width: none;       
+    box-sizing: border-box;
+
     padding: 6px 8px;
     max-height: 40vh;
   }
@@ -306,6 +310,7 @@ aside[data-role="info"].tooltip.show{
     row-gap: 4px;
   }
 }
+
 
 
 /* Texto accesible oculto */

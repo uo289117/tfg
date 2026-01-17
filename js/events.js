@@ -18,8 +18,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     selectorModo.addEventListener("change", e => {
         modoActual = e.target.value;
-
-        actualizarSelectorIndicadores();
         actualizarVista();
     });
 
@@ -44,5 +42,6 @@ document.addEventListener("DOMContentLoaded", () => {
     selectorY.addEventListener("change", () => {
         if (tipoGrafico === "scatter") pintarGrafico();
     });
+
 
 });

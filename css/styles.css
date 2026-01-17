@@ -135,56 +135,61 @@ select:focus {
 }
 
 /* ---------------------------------------- */
-/* INFO BOX */
+/* INFO TOOLTIP */
 /* ---------------------------------------- */
 
-aside[data-role="info"]{
-  position: fixed;           
-  bottom: 16px;
-  right: 16px;
+aside[data-role="info"].tooltip{
+  position: absolute;
+  right: auto;
+  bottom: auto;
 
-  width: clamp(180px, 22vw, 260px);
-  max-width: calc(100% - 32px);
+  max-width: 280px;
+  padding: 10px 12px;
+  font-size: 0.9rem;
+  text-align: left;
 
-  background: linear-gradient(145deg, #ffffff, #f0f0f0);
+  background: rgba(20, 24, 36, 0.92); /* fondo oscuro */
+  color: #fff;                        /* texto claro */
+  border: 1px solid rgba(255,255,255,0.18);
   border-radius: 12px;
-  padding: 12px 14px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
-  z-index: 9999;                  
+  box-shadow: 0 10px 26px rgba(0,0,0,0.35);
+  backdrop-filter: blur(4px);
+
+  pointer-events: auto; /* necesario para click/selección */
+  user-select: text;    /* ✅ copiar */
+
   display: none;
-
-  text-align: center;
-  font-size: clamp(0.78rem, 1.2vw, 0.95rem);
-  color: #333;
-  border: 1px solid #ddd;
-
-  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
-aside[data-role="info"]{
-  bottom: clamp(16px, 8vh, 160px);
+aside[data-role="info"].tooltip p{
+  margin: 6px 0;
 }
 
-
-aside[data-role="info"].show{
-  display: block;
-  opacity: 1;
-  transform: translateY(-6px);
+aside[data-role="info"].tooltip strong{
+  color: rgba(255,255,255,0.85);
 }
 
-aside[data-role="info"] button{
+aside[data-role="info"].tooltip button{
   margin-top: 8px;
-  padding: 6px 10px;
-  font-size: 0.85em;
-  background-color: #007BFF;
-  color: white;
-  border: none;
-  border-radius: 8px;
+  width: 100%;
+  padding: 7px 10px;
+  font-size: 0.9em;
+  background: rgba(255,255,255,0.14);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.22);
+  border-radius: 10px;
   cursor: pointer;
 }
-aside[data-role="info"] button:hover{
-  background-color: #0056b3;
+
+aside[data-role="info"].tooltip button:hover{
+  background: rgba(255,255,255,0.22);
 }
+
+/* Tooltip visible cuando tiene .show */
+aside[data-role="info"].tooltip.show{
+  display: block;
+}
+
 
 
 /* LEYENDA: se coloca en la esquina del contenedor del mapa */
